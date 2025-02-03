@@ -1,12 +1,19 @@
 # Flutter Kurdish Sorani
 
-A comprehensive Flutter package for Kurdish Sorani (CKB) language support with RTL compatibility, localization, and improved text rendering.
+![GitHub stars](https://img.shields.io/github/stars/bzhar93/flutter_kurdish_sorani?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bzhar93/flutter_kurdish_sorani?style=social)
+![GitHub issues](https://img.shields.io/github/issues/bzhar93/flutter_kurdish_sorani)
+![GitHub license](https://img.shields.io/github/license/bzhar93/flutter_kurdish_sorani)
 
-[![pub package](https://img.shields.io/pub/v/flutter_kurdish_sorani.svg)](https://pub.dev/packages/flutter_kurdish_sorani)
-[![likes](https://img.shields.io/pub/likes/flutter_kurdish_sorani)](https://pub.dev/packages/flutter_kurdish_sorani/score)
-[![popularity](https://img.shields.io/pub/popularity/flutter_kurdish_sorani)](https://pub.dev/packages/flutter_kurdish_sorani/score)
+A comprehensive Flutter package for Kurdish Sorani (CKB) language support with RTL compatibility, localization, and improved text rendering. Perfect for apps targeting Kurdish-speaking users.
 
-## Features
+[English](README.md) | [کوردی](README_CKB.md)
+
+## 📱 Demo
+
+<img src="screenshots/demo.gif" width="300">
+
+## ✨ Features
 
 - 🌐 Full Kurdish Sorani (CKB) localization support
 - ⚡️ Optimized text rendering for Kurdish characters
