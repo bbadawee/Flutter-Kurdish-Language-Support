@@ -21,6 +21,9 @@ homepage: https://github.com/bzhar93/flutter_kurdish_sorani
 repository: https://github.com/bzhar93/flutter_kurdish_sorani
 issue_tracker: https://github.com/bzhar93/flutter_kurdish_sorani/issues
 
+# Add your publisher ID after verification
+publisher: bzhar93
+
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.0.0"

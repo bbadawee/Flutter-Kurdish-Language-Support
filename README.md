@@ -20,11 +20,18 @@ A comprehensive Flutter package for Kurdish Sorani (CKB) language support with R
 
 Add this to your package's `pubspec.yaml` file:
 
-
-yaml
+```yaml
 dependencies:
-flutter_kurdish_sorani: ^0.1.0
+  flutter_kurdish_sorani:
+    git:
+      url: https://github.com/bzhar93/flutter_kurdish_sorani.git
+      ref: main  # or specify a tag/commit
+```
 
+Then run:
+```bash
+flutter pub get
+```
 
 ## Usage
 
@@ -101,6 +108,7 @@ flutter:
     - family: Rabar
       fonts:
         - asset: assets/fonts/Rabar-001.ttf
+          weight: 400
         - asset: assets/fonts/Rabar-002.ttf
           weight: 700
 ```
@@ -133,10 +141,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this package helpful, please give it a like 👍 on [pub.dev](https://pub.dev/packages/flutter_kurdish_sorani)!
 
-For issues, feature requests, or questions, please [create an issue](https://github.com/YOUR_USERNAME/flutter_kurdish_sorani/issues).
+For issues, feature requests, or questions, please [create an issue](https://github.com/bzhar93/flutter_kurdish_sorani/issues).
 
 ## Credits
 
-- Font: Rabar font by [Rabar Erkan](https://www.behance.net/itsrabar) - Motion Designer & 3D Generalist from Erbil, Iraq
-- Contributors: [List of contributors]
-
+- Font: Rabar font by [Rabar Erkan](https://www.behance.net/itsrabar)
