@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "hello": "Hello",
+  "@hello": {
+    "description": "A greeting message"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Button text for changing language"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings menu title"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile menu title"
+  }
+} 

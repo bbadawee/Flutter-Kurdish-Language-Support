@@ -1,0 +1,23 @@
+{
+  "@@locale": "ckb",
+  "hello": "سڵاو",
+  "@hello": {
+    "description": "A greeting message"
+  },
+  "welcome": "بەخێربێیت",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "changeLanguage": "گۆڕینی زمان",
+  "@changeLanguage": {
+    "description": "Button text for changing language"
+  },
+  "settings": "ڕێکخستنەکان",
+  "@settings": {
+    "description": "Settings menu title"
+  },
+  "profile": "پرۆفایل",
+  "@profile": {
+    "description": "Profile menu title"
+  }
+} 
