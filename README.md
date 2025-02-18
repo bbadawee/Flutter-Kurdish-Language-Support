@@ -1,9 +1,9 @@
 # Flutter Kurdish Sorani
 
-![GitHub stars](https://img.shields.io/github/stars/bzhar93/flutter_kurdish_sorani?style=social)
-![GitHub forks](https://img.shields.io/github/forks/bzhar93/flutter_kurdish_sorani?style=social)
-![GitHub issues](https://img.shields.io/github/issues/bzhar93/flutter_kurdish_sorani)
-![GitHub license](https://img.shields.io/github/license/bzhar93/flutter_kurdish_sorani)
+![GitHub stars](https://img.shields.io/github/stars/bbadawee/flutter_kurdish_sorani?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bbadawee/flutter_kurdish_sorani?style=social)
+![GitHub issues](https://img.shields.io/github/issues/bbadawee/flutter_kurdish_sorani)
+![GitHub license](https://img.shields.io/github/license/bbadawee/flutter_kurdish_sorani)
 
 A comprehensive Flutter package for Kurdish Sorani (CKB) language support with RTL compatibility, localization, and improved text rendering. Perfect for apps targeting Kurdish-speaking users.
 
@@ -31,7 +31,7 @@ Add this to your package's `pubspec.yaml` file:
 dependencies:
   flutter_kurdish_sorani:
     git:
-      url: https://github.com/bzhar93/flutter_kurdish_sorani.git
+      url: https://github.com/bbadawee/flutter_kurdish_sorani.git
       ref: main  # or specify a tag/commit
 ```
 
@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this package helpful, please give it a like 👍 on [pub.dev](https://pub.dev/packages/flutter_kurdish_sorani)!
 
-For issues, feature requests, or questions, please [create an issue](https://github.com/bzhar93/flutter_kurdish_sorani/issues).
+For issues, feature requests, or questions, please [create an issue](https://github.com/bbadawee/flutter_kurdish_sorani/issues).
 
 ## Credits
 
